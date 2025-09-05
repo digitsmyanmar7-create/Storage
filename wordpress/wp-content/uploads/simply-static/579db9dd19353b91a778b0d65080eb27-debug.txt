@@ -1,0 +1,5 @@
+[2025-09-05 13:06:11] [class-elementor-integration.php:510] Crawlers option empty or not an array; not modifying. Elementor will be active by default logic.
+[2025-09-05 13:06:14] [class-elementor-integration.php:510] Crawlers option empty or not an array; not modifying. Elementor will be active by default logic.
+[2025-09-05 13:06:16] [class-elementor-integration.php:510] Crawlers option empty or not an array; not modifying. Elementor will be active by default logic.
+[2025-09-05 13:06:27] [class-elementor-integration.php:510] Crawlers option empty or not an array; not modifying. Elementor will be active by default logic.
+[2025-09-05 13:06:28] [class-elementor-integration.php:510] Crawlers option empty or not an array; not modifying. Elementor will be active by default logic.
